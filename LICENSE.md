@@ -1,4 +1,4 @@
-#  
+#  Enhance Alfred for macOS with secure Alfred for macOS Tool | export to PDF + cloud backup, the #1 tool. Includes export to PDF and cloud backup for a smoother experience.
 
 
 
